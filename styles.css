@@ -1,0 +1,377 @@
+body {
+  margin: 0px;
+
+}
+
+#page14 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+
+}
+
+#page14video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 420px;
+}
+
+#page14text1 {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 300px;
+  left: 20px;
+}
+
+#page14text2 {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 300px;
+  left: 1150px;
+}
+
+#page2 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 80px;
+  left: 805px;
+
+}
+
+#page2video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+#page2text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 250px;
+  left: 1000px;
+}
+
+#page3 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 65px;
+  left: 990px;
+}
+
+#page3video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 600px;
+}
+
+#page3text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 300px;
+  left: 200px;
+}
+
+#page4 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 430px;
+  left: 1050px;
+}
+
+#page4video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+#page4text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 80px;
+  left: 875px;
+}
+
+#page5 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 290px;
+  left: 1050px;
+}
+
+#page5video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 600px;
+}
+
+#page5text {
+  font-style: normal;
+  font-family: serif;
+  font-size: 18pt;
+  color: gray;
+  position: absolute;
+  top: 450px;
+  left: 80px;
+}
+
+#page6 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 623px;
+  left: 1020px;
+}
+
+#page6video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+#page6text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 250px;
+  left: 1000px;
+}
+
+#page7 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 560px;
+  left: 630px;
+}
+
+#page7video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 600px;
+}
+
+#page7text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 300px;
+  left: 200px;
+}
+
+#page8 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 690px;
+  left: 670px;
+}
+
+#page8video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+#page8text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 80px;
+  left: 875px;
+}
+
+#page9 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 440px;
+  left: 680px;
+}
+
+#page9video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 600px;
+}
+
+#page9text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 450px;
+  left: 80px;
+}
+
+#page10 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 200px;
+  left: 870px;
+}
+
+#page10video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+#page10text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 80px;
+  left: 850px;
+}
+
+#page11 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 200px;
+  left: 950px;
+}
+
+#page11video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 600px;
+}
+
+#page11text1 {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 80px;
+  left: 80px;
+}
+
+#page11text2 {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 250px;
+  left: 250px;
+}
+
+#page11text3 {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 400px;
+  left: 450px;
+}
+
+#page12 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 840px;
+  left: 1050px;
+}
+
+#page12video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+#page12text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 450px;
+  left: 850px;
+}
+
+#page13 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 875px;
+  left: 680px;
+}
+
+#page13video {
+  width: 50vw;
+  position: absolute;
+  top: 100px;
+  left: 600px;
+}
+
+#page13text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 450px;
+  left: 380px;
+}
+
+#page15 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 100px;
+  left: 420px;
+}
+
+#page15text {
+  font-size: 18pt;
+  font-family: serif;
+  font-style: normal;
+  color: gray;
+  position: absolute;
+  top: 300px;
+  left: -300px;
+}
