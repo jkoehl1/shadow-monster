@@ -7,7 +7,8 @@ body {
   height: 100px;
   width: 100px;
   position: absolute;
-
+  top: 0px;
+  left: 400px;
 }
 
 #page14video {
@@ -42,7 +43,7 @@ body {
   width: 100px;
   position: absolute;
   top: 80px;
-  left: 805px;
+  left: 605px;
 
 }
 
@@ -68,7 +69,7 @@ body {
   width: 100px;
   position: absolute;
   top: 65px;
-  left: 990px;
+  left: 790px;
 }
 
 #page3video {
@@ -93,7 +94,7 @@ body {
   width: 100px;
   position: absolute;
   top: 430px;
-  left: 1050px;
+  left: 850px;
 }
 
 #page4video {
@@ -118,7 +119,7 @@ body {
   width: 100px;
   position: absolute;
   top: 290px;
-  left: 1050px;
+  left: 850px;
 }
 
 #page5video {
@@ -143,7 +144,7 @@ body {
   width: 100px;
   position: absolute;
   top: 623px;
-  left: 1020px;
+  left: 820px;
 }
 
 #page6video {
@@ -168,7 +169,7 @@ body {
   width: 100px;
   position: absolute;
   top: 560px;
-  left: 630px;
+  left: 430px;
 }
 
 #page7video {
@@ -193,7 +194,7 @@ body {
   width: 100px;
   position: absolute;
   top: 690px;
-  left: 670px;
+  left: 470px;
 }
 
 #page8video {
@@ -218,7 +219,7 @@ body {
   width: 100px;
   position: absolute;
   top: 440px;
-  left: 680px;
+  left: 480px;
 }
 
 #page9video {
@@ -243,7 +244,7 @@ body {
   width: 100px;
   position: absolute;
   top: 200px;
-  left: 870px;
+  left: 670px;
 }
 
 #page10video {
@@ -268,7 +269,7 @@ body {
   width: 100px;
   position: absolute;
   top: 200px;
-  left: 950px;
+  left: 750px;
 }
 
 #page11video {
@@ -313,7 +314,7 @@ body {
   width: 100px;
   position: absolute;
   top: 840px;
-  left: 1050px;
+  left: 850px;
 }
 
 #page12video {
@@ -338,7 +339,7 @@ body {
   width: 100px;
   position: absolute;
   top: 875px;
-  left: 680px;
+  left: 480px;
 }
 
 #page13video {
